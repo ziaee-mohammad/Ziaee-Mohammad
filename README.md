@@ -10,13 +10,10 @@
 
 ---
 
-### 🎓 **About Me**
-I’m a Computer Science graduate passionate about applying **AI** and **Data Science** to solve real-world problems.  
-I’ve worked on various projects across **computer vision**, **natural language processing**, and **bioinformatics**,  
-with additional interests in **robotics** and **intelligent systems**.  
+### 🎓 About Me
+I’m a **graduate student in Computer Science** passionate about applying AI and Data Science to solve real-world problems. I’ve worked on various projects across computer vision, natural language processing, and bioinformatics, with additional interests in robotics and intelligent systems.  
 
-As I build my GitHub profile, I plan to gradually share both my **past** and **ongoing work** here.  
-I’m also eager to **share my experiences** and **learn from others** in the AI and data science community.
+As I build my GitHub profile, I plan to gradually share both my past and ongoing work here. I’m also eager to share my experiences and learn from others in the AI and data science community.
 
 ---
 
@@ -24,11 +21,11 @@ I’m also eager to **share my experiences** and **learn from others** in the AI
 
 - **M.Sc. Student in Computer Science**  
   *University of Wisconsin–Milwaukee (UWM), USA*  
-  Focus Areas: Artificial Intelligence, Data Science, and Intelligent Systems  
+  Focus Areas: Artificial Intelligence and Intelligent Systems  
 
 - **B.Sc. in Computer Engineering (Artificial Intelligence)**  
   *Mazandaran University of Science and Technology (Mazust), Iran*  
-  Focus Areas: Artificial Intelligence, Image & Text Processing, and Robotics
+  Focus Areas: Artificial Intelligence and Robotics
 
 ---
 
@@ -52,5 +49,3 @@ I’m also eager to **share my experiences** and **learn from others** in the AI
 - ✉️ [Email](mailto:moha2012zia@gmail.com)
 
 ---
-
-🌎 *Exclusively for job offers in the U.S. & Canada.*
