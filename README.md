@@ -2,7 +2,8 @@
 
 <!-- To display your photo, replace the link below with your image URL -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/0000000?v=4" alt="Mohammad Ziaee" width="180" style="border-radius:50%;">
+  <img src="https://raw.githubusercontent.com/ziaee-mohammad/ziaee-mohammad/refs/heads/main/mohammad%20ziaee-%20profile.jpg" 
+       alt="Mohammad Ziaee" width="180" style="border-radius:50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </p>
 
 <h1 align="center">👋 Hi, I'm Mohammad Ziaee</h1>
