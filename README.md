@@ -8,8 +8,8 @@
 
 <h1 align="center">👋 Hi, I'm Mohammad Ziaee</h1>
 <h3 align="center">
-AI & Data Science Enthusiast | Computer Vision <br>
-NLP • Bioinformatics • Robotics
+AI & Data Science Enthusiast <br>
+Computer Vision • NLP • Bioinformatics • Robotics
 </h3>
 ---
 
