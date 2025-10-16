@@ -11,7 +11,6 @@
 AI & Data Science Enthusiast <br>
 Computer Vision • NLP • Bioinformatics • Robotics
 </h3>
----
 
 ### 🎓 About Me
 I’m a **graduate student in Computer Science** passionate about applying AI and Data Science to solve real-world problems. I’ve worked on various projects across computer vision, natural language processing, and bioinformatics, with additional interests in robotics and intelligent systems.  
