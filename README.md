@@ -7,8 +7,10 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Mohammad Ziaee</h1>
-<h3 align="center">AI & Data Science Enthusiast | Computer Vision • NLP • Bioinformatics • Robotics</h3>
-
+<h3 align="center">
+AI & Data Science Enthusiast | Computer Vision <br>
+NLP • Bioinformatics • Robotics
+</h3>
 ---
 
 ### 🎓 About Me
