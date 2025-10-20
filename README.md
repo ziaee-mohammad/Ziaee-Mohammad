@@ -51,6 +51,7 @@ As I build my GitHub profile, I plan to gradually share both my past and ongoing
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-ziaee)  
 - 🧠 [GitHub Projects](https://github.com/ziaee-mohammad)  
 - ✉️ [Email](mailto:moha2012zia@gmail.com)
+- 👉 Instagram: [@ziaee_mohammad](https://www.instagram.com/ziaee_mohammad/)
 
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
