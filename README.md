@@ -21,6 +21,8 @@ I enjoy exploring modern AI technologies, building practical systems, and turnin
 
 📍 I’m based in the Eastern United States and open to in-person collaboration and interactive meetings, providing an opportunity to exchange ideas, better understand each other’s goals, and build meaningful professional connections.
 
+📧 For academic collaborations, please feel free to contact me via my university email.
+
 ---
 
 ### 🎓 **Education**
