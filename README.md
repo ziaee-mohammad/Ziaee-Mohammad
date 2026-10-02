@@ -15,14 +15,11 @@ Computer Vision · NLP · Generative AI · Multimodal AI
 ---
 
 ### 🎓 About Me
-I’m a graduate student in Computer Science passionate about applying Artificial Intelligence and Data Science to solve real-world problems. My interests span Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Speech Processing, Generative AI, and Multimodal AI, with additional interests in Bioinformatics, Medical AI and Intelligent Systems.
+I'm a Computer Science graduate student focused on applying AI and Data Science to solve real-world problems. My core interests include Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, and Multimodal AI, with additional focus on Medical AI and Bioinformatics.
 
-I enjoy exploring modern AI technologies, building practical systems, and turning ideas into experiments and real-world projects. As I build my GitHub profile, I plan to gradually share my past and ongoing projects, experiments, and research-oriented work while continuing to learn and contribute to the AI and Data Science community.
+I enjoy building practical AI systems, running experiments, and turning ideas into working projects. I'm currently expanding my GitHub by sharing research work, experiments, and open-source contributions.
 
-📍 I’m based in the Eastern United States and open to in-person collaboration and interactive meetings, providing an opportunity to exchange ideas, better understand each other’s goals, and build meaningful professional connections.
-
-📧 For academic collaborations, please feel free to contact me via my university email.
-
+📍 Based in the Eastern United States · Open to in-person collaboration and academic discussions · Feel free to reach out via university email.
 ---
 
 ### 🎓 **Education**
