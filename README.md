@@ -35,16 +35,19 @@ I enjoy exploring modern AI technologies, building practical systems, and turnin
 
 ---
 
-### 🚀 **Technical Skills & Interests**
+### 🚀 **Research & Technical Interests**
 
-- **Programming:** Python, C++, JavaScript, PHP, MATLAB  
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Machine Learning:** Regression, SVM, Decision Trees, Random Forest (scikit-learn)  
-- **Deep Learning:** TensorFlow, PyTorch, Keras  
-- **Computer Vision:** OpenCV, image processing, object detection  
-- **Natural Language Processing (NLP):** NLTK, text preprocessing, tokenization  
-- **Robotics:** Python-based robot control, Arduino, ROS  
-- **Web Development:** JavaScript (React.js), PHP (Laravel)
+- 🤖 **Machine Learning & Deep Learning**
+- 👁️ **Computer Vision & Image Processing**
+- 🧠 **Natural Language Processing & Speech Processing**
+- ✨ **Generative AI & Large Language Models (LLMs)**
+- 👀 **Vision-Language Models (VLMs)**
+- 🔗 **Retrieval-Augmented Generation (RAG)**
+- 🤝 **Agentic AI & AI Agents**
+- 🧩 **Multimodal AI**
+- 🧬 **Bioinformatics & Biomedical AI**
+- 🏥 **Medical Imaging & Signal Processing**
+- ⚙️ **MLOps & Machine Learning Engineering**
 
 ---
 
