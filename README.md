@@ -59,10 +59,12 @@ Focus Area: Artificial Intelligence
 - 👉 Instagram: [@ziaee_mohammad](https://www.instagram.com/ziaee_mohammad/)
 
 ---
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+---
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat)
+![VLMs](https://img.shields.io/badge/VLMs-5C3EE8?style=flat)
+![RAG](https://img.shields.io/badge/RAG-00897B?style=flat)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-00A67E?style=flat)
+![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-1E88E5?style=flat)
+![MLOps](https://img.shields.io/badge/MLOps-2496ED?style=flat)
