@@ -9,15 +9,17 @@
 <h1 align="center">👋 Hi, I'm Mohammad Ziaee</h1>
 <h3 align="center">
 AI & Data Science Researcher <br>
-Computer Vision • NLP • Bioinformatics • Robotics
+Computer Vision · NLP · Generative AI · Multimodal AI
 </h3>
 
 ---
 
 ### 🎓 About Me
-I’m a **graduate student in Computer Science** passionate about applying AI and Data Science to solve real-world problems. I’ve worked on various projects across computer vision, natural language processing, and bioinformatics, with additional interests in robotics and intelligent systems.  
-
-As I build my GitHub profile, I plan to gradually share both my past and ongoing work here. I’m also eager to share my experiences and learn from others in the AI and data science community.
+I’m a graduate student in Computer Science passionate about applying Artificial Intelligence and Data Science to solve real-world problems.
+My interests span Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Speech Processing, Generative AI, and Multimodal AI, with additional interests in Bioinformatics, Medical AI, Robotics, and Intelligent Systems.
+I enjoy exploring modern AI technologies, building practical systems, and turning ideas into experiments and real-world projects.
+As I build my GitHub profile, I plan to gradually share my past and ongoing projects, experiments, and research-oriented work while continuing to learn and contribute to the AI and Data Science community.
+📍 I’m based in the Eastern United States and open to in-person collaboration and interactive meetings, providing an opportunity to exchange ideas, better understand each other’s goals, and build meaningful professional connections.
 
 ---
 
