@@ -26,14 +26,12 @@ I enjoy exploring modern AI technologies, building practical systems, and turnin
 ### 🎓 **Education**
 
 - **M.Sc. Student in Computer Science**  
-University of Wisconsin–Milwaukee (UWM), USA
-
+University of Wisconsin–Milwaukee (UWM), USA  
 Focus Areas: Computer Vision, Image Processing, 3D Vision & Deep Learning
 
-- **B.Sc. in Computer Engineering (Artificial Intelligence)**  
-Mazandaran University of Science and Technology (MazUST), Iran
-
-Focus Areas: Artificial Intelligence
+- **B.Sc. in Computer Engineering**  
+Mazandaran University of Science and Technology (MazUST), Iran  
+Focus Area: Artificial Intelligence
 
 ---
 
