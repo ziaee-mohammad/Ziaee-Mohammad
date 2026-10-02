@@ -30,7 +30,7 @@ University of Wisconsin–Milwaukee (UWM), USA
 Focus Areas: Computer Vision, Image Processing, 3D Vision & Deep Learning
 
 - **B.Sc. in Computer Engineering**  
-Mazandaran University of Science and Technology (MazUST), Iran  
+Mazandaran University of Science and Technology (Mazust), Iran  
 Focus Area: Artificial Intelligence
 
 ---
