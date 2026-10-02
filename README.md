@@ -19,8 +19,9 @@ I'm a Computer Science graduate student focused on applying AI and Data Science 
 
 I enjoy building practical AI systems, running experiments, and turning ideas into working projects. I'm currently expanding my GitHub by sharing research work, experiments, and open-source contributions.
 
-📍 Based in the Eastern United States · Open to in-person collaboration and academic discussions ·
-Feel free to reach out via university email.
+📍 based in the Eastern United States and open to in-person collaboration and interactive meetings, providing an opportunity to exchange ideas, better understand each other’s goals, and build meaningful professional connections.
+
+📧 For academic collaborations, please feel free to contact me via my university email.
 
 ---
 
